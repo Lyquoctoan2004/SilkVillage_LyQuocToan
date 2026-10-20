@@ -16,3 +16,10 @@ Saved/
 # Logs and temporary files
 *.log
 *.tmp
+bin/
+obj/
+node_modules/
+dist/
+build/
+*.svg
+*.lock
